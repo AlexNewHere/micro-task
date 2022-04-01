@@ -10,7 +10,7 @@ type MoneyType = {
 
 type PropsType = {
     propsMoney: Array<MoneyType>
-    call: Function
+    call: (a: FilterType)=>void
    }
 
 export const NewComponent = (props: PropsType) => {

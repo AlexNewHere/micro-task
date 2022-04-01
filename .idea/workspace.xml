@@ -1,24 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c5e4f88-96bb-4378-aa4f-a3e685d72864" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/App_Les4.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App_Les5.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App_Lex2.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Button.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson 1/Body.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson 1/Footer.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson 1/heade.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson 2/MAP.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson 2/NewComponent.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson 3/Button.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson 4/useState.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson5.filter/metod_Filter.tsx" afterDir="false" />
+    <list default="true" id="1c5e4f88-96bb-4378-aa4f-a3e685d72864" name="Changes" comment="goodjob">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson5.filter/metod_Filter.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson5.filter/metod_Filter.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,8 +61,18 @@
       <option name="presentableId" value="Default" />
       <updated>1648726180370</updated>
       <workItem from="1648726181990" duration="115000" />
-      <workItem from="1648726388816" duration="25383000" />
+      <workItem from="1648726388816" duration="25617000" />
+      <workItem from="1648759319649" duration="126000" />
+      <workItem from="1648803277248" duration="1732000" />
     </task>
+    <task id="LOCAL-00001" summary="goodjob">
+      <created>1648756616282</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1648756616282</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,5 +88,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="goodjob" />
+    <option name="LAST_COMMIT_MESSAGE" value="goodjob" />
   </component>
 </project>
