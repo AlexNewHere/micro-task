@@ -7,6 +7,7 @@ import {AppLes2} from './App_Lex2';
 import {AppLs3} from './Button';
 import {AppLes4} from './App_Les4';
 import {AppLes5} from './App_Les5';
+import {AppLes6} from './AppLes6';
 
 
 const root = ReactDOM.createRoot(document.getElementById
@@ -18,5 +19,6 @@ const root = ReactDOM.createRoot(document.getElementById
 
 // root.render(<AppLs3 />)
 // root.render(<AppLes4 />)
-root.render(<AppLes5 />)
+// root.render(<AppLes5 />)
+root.render(<AppLes6 />)
 

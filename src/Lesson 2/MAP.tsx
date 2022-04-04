@@ -1,4 +1,5 @@
 import React from 'react';
+import a from './Tr.module.css'
 
 type IsNewComponentType = {
     topCars: Array<TopCarsType>
@@ -13,16 +14,16 @@ export const IsNewComponent = (props: IsNewComponentType) => {
     return (
         <tbody>
             <tr>
-                <th>№</th>
-                <th>Моедль</th>
-                <th>Производитель</th>
+                <th className={a.th}>№</th>
+                <th className={a.th}>Моедль</th>
+                <th className={a.th}>Производитель</th>
             </tr>
             {props.topCars.map( (el, index) => {
                     return (
-                        <tr key={index+1}>
-                        <th>{index+1}</th>
-                        <th>{el.model}</th>
-                        <th>{el.manufacturer}</th>
+                        <tr key={index+1} >
+                        <th className={a.th}>{index+1}</th>
+                        <th className={a.th}>{el.model}</th>
+                        <th className={a.th}>{el.manufacturer}</th>
                         </tr>
                 )
                 },

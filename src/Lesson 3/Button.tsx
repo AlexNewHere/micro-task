@@ -1,4 +1,5 @@
 import React from 'react';
+
 type ButtonType = {
     name: string
     callback: ()=>void

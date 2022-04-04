@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c5e4f88-96bb-4378-aa4f-a3e685d72864" name="Changes" comment="goodjob">
+    <list default="true" id="1c5e4f88-96bb-4378-aa4f-a3e685d72864" name="Changes" comment="Home work is done">
+      <change afterPath="$PROJECT_DIR$/src/AppLes6.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Les6__Input/Button.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Les6__Input/FullInput.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Les6__Input/Input.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Les6__Input/Ls6.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson 2/Tr.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson5.filter/metod_Filter.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson5.filter/metod_Filter.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson 2/MAP.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson 2/MAP.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson 3/Button.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson 3/Button.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +23,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="TypeScript File" />
+        <option value="CSS File" />
         <option value="TypeScript JSX File" />
       </list>
     </option>
@@ -42,6 +52,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="D:\IT\Project\micro-task\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -50,6 +61,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\IT\Project\micro-task\src" />
       <recent name="D:\IT\Project\micro-task\src\Lesson 2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IT\Project\micro-task\src" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -63,7 +77,10 @@
       <workItem from="1648726181990" duration="115000" />
       <workItem from="1648726388816" duration="25617000" />
       <workItem from="1648759319649" duration="126000" />
-      <workItem from="1648803277248" duration="1732000" />
+      <workItem from="1648803277248" duration="2016000" />
+      <workItem from="1648992107695" duration="101000" />
+      <workItem from="1649021262928" duration="25000" />
+      <workItem from="1649058114096" duration="8860000" />
     </task>
     <task id="LOCAL-00001" summary="goodjob">
       <created>1648756616282</created>
@@ -72,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648756616282</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Home work is done">
+      <created>1648805305491</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1648805305491</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,6 +115,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="goodjob" />
-    <option name="LAST_COMMIT_MESSAGE" value="goodjob" />
+    <MESSAGE value="Home work is done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Home work is done" />
   </component>
 </project>
